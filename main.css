@@ -1,0 +1,9 @@
+
+body {
+    font-family: monospace;
+    font-size: 16px;
+
+    max-width: 720px;
+    margin: 24px auto 24px auto;
+    padding: 24px;
+}
