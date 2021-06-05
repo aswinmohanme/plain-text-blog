@@ -1,0 +1,2 @@
+
+Hello my name is Aswin and this a site completely written in Plain Text. This is all just a part of an experiment to create the lightest webpage. Let's see how this goes.
